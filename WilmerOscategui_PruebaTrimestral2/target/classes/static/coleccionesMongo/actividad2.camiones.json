@@ -1,0 +1,62 @@
+[{
+  "_id": {
+    "$oid": "697494514d2d9d869a9b75df"
+  },
+  "conductorId": {
+    "$oid": "697494514d2d9d869a9b75dc"
+  },
+  "matricula": "1234-BBB",
+  "modelo": "Scania R500",
+  "capacidadKg": 15000,
+  "estado": "ACTIVO",
+  "_class": "transporte.modelo.collection.Camion"
+},
+{
+  "_id": {
+    "$oid": "697494514d2d9d869a9b75e0"
+  },
+  "conductorId": {
+    "$oid": "697494514d2d9d869a9b75dd"
+  },
+  "matricula": "5678-CCC",
+  "modelo": "Mercedes Actros",
+  "capacidadKg": 12000,
+  "estado": "ACTIVO",
+  "_class": "transporte.modelo.collection.Camion"
+},
+{
+  "_id": {
+    "$oid": "697494514d2d9d869a9b75e1"
+  },
+  "conductorId": {
+    "$oid": "697494514d2d9d869a9b75de"
+  },
+  "matricula": "9012-DDD",
+  "modelo": "MAN TGX",
+  "capacidadKg": 18000,
+  "estado": "INACTIVO",
+  "_class": "transporte.modelo.collection.Camion"
+},
+{
+  "_id": {
+    "$oid": "697494514d2d9d869a9b75e2"
+  },
+  "matricula": "3456-EEE",
+  "modelo": "Iveco S-Way",
+  "capacidadKg": 8000,
+  "estado": "INACTIVO",
+  "_class": "transporte.modelo.collection.Camion"
+},
+{
+  "_id": {
+    "$oid": "697494514d2d9d869a9b75e3"
+  },
+  "conductorId": {
+    "$oid": "697494514d2d9d869a9b75dc"
+  },
+  "matricula": "7890-FFF",
+  "modelo": "Renault T",
+  "capacidadKg": 10000,
+  "estado": "ACTIVO",
+  "_class": "transporte.modelo.collection.Camion"
+}]

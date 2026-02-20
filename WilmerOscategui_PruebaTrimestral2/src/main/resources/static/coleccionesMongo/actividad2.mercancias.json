@@ -1,0 +1,70 @@
+[{
+  "_id": {
+    "$oid": "697494514d2d9d869a9b75e4"
+  },
+  "descripcion": "Componentes Electrónicos",
+  "origen": "Barcelona",
+  "destino": "Madrid",
+  "pesoKg": 2000,
+  "fechaEntregaEstimada": {
+    "$date": "2026-01-25T23:00:00.000Z"
+  },
+  "estado": "ASIGNADA",
+  "_class": "transporte.modelo.collection.Mercancia"
+},
+{
+  "_id": {
+    "$oid": "697494514d2d9d869a9b75e5"
+  },
+  "descripcion": "Muebles de Madera",
+  "origen": "Valencia",
+  "destino": "Lisboa",
+  "pesoKg": 4500,
+  "fechaEntregaEstimada": {
+    "$date": "2026-01-28T23:00:00.000Z"
+  },
+  "estado": "PENDIENTE",
+  "_class": "transporte.modelo.collection.Mercancia"
+},
+{
+  "_id": {
+    "$oid": "697494514d2d9d869a9b75e6"
+  },
+  "descripcion": "Productos Farmacéuticos",
+  "origen": "Sevilla",
+  "destino": "Bilbao",
+  "pesoKg": 1000,
+  "fechaEntregaEstimada": {
+    "$date": "2026-01-24T23:00:00.000Z"
+  },
+  "estado": "ASIGNADA",
+  "_class": "transporte.modelo.collection.Mercancia"
+},
+{
+  "_id": {
+    "$oid": "697494514d2d9d869a9b75e7"
+  },
+  "descripcion": "Maquinaria Industrial",
+  "origen": "Zaragoza",
+  "destino": "París",
+  "pesoKg": 9000,
+  "fechaEntregaEstimada": {
+    "$date": "2026-01-30T23:00:00.000Z"
+  },
+  "estado": "PENDIENTE",
+  "_class": "transporte.modelo.collection.Mercancia"
+},
+{
+  "_id": {
+    "$oid": "697494514d2d9d869a9b75e8"
+  },
+  "descripcion": "Alimentos Perecederos",
+  "origen": "Murcia",
+  "destino": "Málaga",
+  "pesoKg": 3000,
+  "fechaEntregaEstimada": {
+    "$date": "2026-01-24T23:00:00.000Z"
+  },
+  "estado": "ENTREGADA",
+  "_class": "transporte.modelo.collection.Mercancia"
+}]

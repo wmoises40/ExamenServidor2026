@@ -1,0 +1,50 @@
+[{
+  "_id": {
+    "$oid": "697494514d2d9d869a9b75da"
+  },
+  "nombre": "Logística Global",
+  "email": "admin@logistica.com",
+  "contrasena": "1234",
+  "rol": "EMPRESA",
+  "_class": "transporte.modelo.collection.Usuario"
+},
+{
+  "_id": {
+    "$oid": "697494514d2d9d869a9b75db"
+  },
+  "nombre": "Transportes Rápidos",
+  "email": "info@rapidos.com",
+  "contrasena": "{noop}1234",
+  "rol": "EMPRESA",
+  "_class": "transporte.modelo.collection.Usuario"
+},
+{
+  "_id": {
+    "$oid": "697494514d2d9d869a9b75dc"
+  },
+  "nombre": "Juan Pérez",
+  "email": "juan@test.com",
+  "contrasena": "{noop}1234",
+  "rol": "ROLE_CONDUCTOR",
+  "_class": "transporte.modelo.collection.Usuario"
+},
+{
+  "_id": {
+    "$oid": "697494514d2d9d869a9b75dd"
+  },
+  "nombre": "María García",
+  "email": "maria@test.com",
+  "contrasena": "1234",
+  "rol": "CONDUCTOR",
+  "_class": "transporte.modelo.collection.Usuario"
+},
+{
+  "_id": {
+    "$oid": "697494514d2d9d869a9b75de"
+  },
+  "nombre": "Carlos Ruiz",
+  "email": "carlos@test.com",
+  "contrasena": "1234",
+  "rol": "CONDUCTOR",
+  "_class": "transporte.modelo.collection.Usuario"
+}]

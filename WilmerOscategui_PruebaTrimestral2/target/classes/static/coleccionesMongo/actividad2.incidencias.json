@@ -1,0 +1,75 @@
+[{
+  "_id": {
+    "$oid": "697494514d2d9d869a9b75ee"
+  },
+  "camionId": {
+    "$oid": "697494514d2d9d869a9b75df"
+  },
+  "descripcion": "Pinchazo rueda trasera",
+  "fecha": {
+    "$date": "2026-01-22T09:43:45.239Z"
+  },
+  "tipo": "MECANICA",
+  "estado": "RESUELTA",
+  "_class": "transporte.modelo.collection.Incidencia"
+},
+{
+  "_id": {
+    "$oid": "697494514d2d9d869a9b75ef"
+  },
+  "camionId": {
+    "$oid": "697494514d2d9d869a9b75e0"
+  },
+  "descripcion": "Retraso por tormenta",
+  "fecha": {
+    "$date": "2026-01-24T09:43:45.243Z"
+  },
+  "tipo": "METEOROLOGICA",
+  "estado": "ABIERTA",
+  "_class": "transporte.modelo.collection.Incidencia"
+},
+{
+  "_id": {
+    "$oid": "697494514d2d9d869a9b75f0"
+  },
+  "camionId": {
+    "$oid": "697494514d2d9d869a9b75e1"
+  },
+  "descripcion": "Revisión de motor",
+  "fecha": {
+    "$date": "2026-01-26T23:43:45.243Z"
+  },
+  "tipo": "MECANICA",
+  "estado": "ABIERTA",
+  "_class": "transporte.modelo.collection.Incidencia"
+},
+{
+  "_id": {
+    "$oid": "697494514d2d9d869a9b75f1"
+  },
+  "camionId": {
+    "$oid": "697494514d2d9d869a9b75e3"
+  },
+  "descripcion": "Accidente leve en carga",
+  "fecha": {
+    "$date": "2026-01-24T09:13:45.244Z"
+  },
+  "tipo": "MECANICA",
+  "estado": "ABIERTA",
+  "_class": "transporte.modelo.collection.Incidencia"
+},
+{
+  "_id": {
+    "$oid": "697494514d2d9d869a9b75f2"
+  },
+  "camionId": {
+    "$oid": "697494514d2d9d869a9b75df"
+  },
+  "descripcion": "Error en documentos",
+  "fecha": {
+    "$date": "2026-01-19T09:43:45.245Z"
+  },
+  "tipo": "DOCUMENTAL",
+  "estado": "RESUELTA",
+  "_class": "transporte.modelo.collection.Incidencia"
+}]

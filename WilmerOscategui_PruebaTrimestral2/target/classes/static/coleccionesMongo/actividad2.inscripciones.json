@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "696b84dbb35779fca217da45"
+  },
+  "camionId": "696b829fb35779fca217da3b",
+  "mercanciaId": "696b8357b35779fca217da40",
+  "fechaInscripcion": {
+    "$date": "2025-01-19T23:00:00.000Z"
+  },
+  "estado": "PENDIENTE",
+  "_class": "apirest.empresa.modelo.collections.InscripcionTransporte"
+},
+{
+  "_id": {
+    "$oid": "696b84f9b35779fca217da47"
+  },
+  "camionId": "696b829fb35779fca217da3b",
+  "mercanciaId": "696b8365b35779fca217da41",
+  "fechaInscripcion": {
+    "$date": "2025-01-20T23:00:00.000Z"
+  },
+  "estado": "ACEPTADA",
+  "_class": "apirest.empresa.modelo.collections.InscripcionTransporte"
+},
+{
+  "_id": {
+    "$oid": "696b8504b35779fca217da48"
+  },
+  "camionId": "696b82b7b35779fca217da3d",
+  "mercanciaId": "696b837bb35779fca217da43",
+  "fechaInscripcion": {
+    "$date": "2025-01-21T23:00:00.000Z"
+  },
+  "estado": "RECHAZADA",
+  "_class": "apirest.empresa.modelo.collections.InscripcionTransporte"
+},
+{
+  "_id": {
+    "$oid": "696b850eb35779fca217da49"
+  },
+  "camionId": "696b82c4b35779fca217da3e",
+  "mercanciaId": "696b8385b35779fca217da44",
+  "fechaInscripcion": {
+    "$date": "2025-01-22T23:00:00.000Z"
+  },
+  "estado": "ACEPTADA",
+  "_class": "apirest.empresa.modelo.collections.InscripcionTransporte"
+},
+{
+  "_id": {
+    "$oid": "696b8517b35779fca217da4a"
+  },
+  "camionId": "696b82c4b35779fca217da3e",
+  "mercanciaId": "696b8357b35779fca217da40",
+  "fechaInscripcion": {
+    "$date": "2025-01-23T23:00:00.000Z"
+  },
+  "estado": "PENDIENTE",
+  "_class": "apirest.empresa.modelo.collections.InscripcionTransporte"
+}]
